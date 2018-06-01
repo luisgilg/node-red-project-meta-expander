@@ -3,8 +3,8 @@
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {
-        "csvtojson": "^2.0.3",
-        "marko": "^4.10.0"
+        "node-red-contrib-marko-ui": "1.0.0",
+        "node-red-contrib-json": "0.2.0"
     },
     "node-red": {
         "settings": {

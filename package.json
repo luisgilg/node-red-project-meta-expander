@@ -4,7 +4,9 @@
     "version": "0.0.1",
     "dependencies": {
         "node-red-contrib-marko-ui": "1.0.0",
-        "node-red-contrib-json": "0.2.0"
+        "node-red-contrib-json": "0.2.0",
+        "node-red-node-mongodb": "0.0.14",
+        "node-red-dashboard": "2.9.4"
     },
     "node-red": {
         "settings": {
